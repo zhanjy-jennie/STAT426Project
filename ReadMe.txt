@@ -19,7 +19,7 @@ This project implements a two-stage framework combining machine learning-based r
 4. Run portfolio optimization
 
 ## Authors
-- Yue Wu
-- Deyi Zhang
 - Mengyuan Su
+- Yue Wu
 - Jennie Zhan
+- Deyi Zhang
